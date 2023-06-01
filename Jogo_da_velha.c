@@ -4,6 +4,7 @@
 #include<stdlib.h>
 #include<stdbool.h>
 //Grupo: Pedro Henrique de Holanda Lousada, Roger Daiki Hata Sakai, Luiz Henrique Nogueira dos Santos.
+//https://drive.google.com/drive/folders/1bzQIhDI06tO37E4s9XpmIY9feluXLC_2?usp=sharing
 bool win_condition(char v[3][3]){
 	char u;
 	int aux=0;
