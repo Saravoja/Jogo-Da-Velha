@@ -3,7 +3,7 @@
 #include<ctype.h>
 #include<stdlib.h>
 #include<stdbool.h>
-
+//Grupo: Pedro Henrique de Holanda Lousada, Roger Daiki Hata Sakai, Luiz Henrique Nogueira dos Santos.
 bool win_condition(char v[3][3]){
 	char u;
 	int aux=0;
